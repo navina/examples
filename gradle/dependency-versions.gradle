@@ -2,5 +2,7 @@ ext {
 	jettyVersion = "9.3.11.v20160721"
 	jerseyVersion = "2.23.2"
 	junitVersion = "4.11"
-    slf4jVersion = "1.6.2"
+  slf4jVersion = "1.6.2"
+  zkClientVersion = "0.9"
+  zkVersion = "3.4.9"
 }
